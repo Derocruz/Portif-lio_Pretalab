@@ -142,12 +142,9 @@ font-weight: 300;
     font-weight: 500;
 }
 
-.menu-rodapé{
-
-    font-size: 18px;
-    text-decoration: inherit;
+.lista-footer{
+    
     color: #fff;
     background-color:#724796
-   
-}
+   }
 
